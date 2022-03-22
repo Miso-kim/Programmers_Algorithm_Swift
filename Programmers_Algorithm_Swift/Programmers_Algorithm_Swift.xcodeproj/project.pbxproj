@@ -17,6 +17,7 @@
 		F1262A4527E2F248000D29AC /* baeckjoon_18258.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1262A4327E2F248000D29AC /* baeckjoon_18258.swift */; };
 		F1262A4827E2F66D000D29AC /* sort_kthNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1262A4727E2F66D000D29AC /* sort_kthNumber.swift */; };
 		F1262A4A27E32D5C000D29AC /* sort_biggestNumber .swift in Sources */ = {isa = PBXBuildFile; fileRef = F1262A4927E32D5C000D29AC /* sort_biggestNumber .swift */; };
+		F1262A4C27E40E04000D29AC /* sort_HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1262A4B27E40E04000D29AC /* sort_HIndex.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F1262A4327E2F248000D29AC /* baeckjoon_18258.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = baeckjoon_18258.swift; sourceTree = "<group>"; };
 		F1262A4727E2F66D000D29AC /* sort_kthNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sort_kthNumber.swift; sourceTree = "<group>"; };
 		F1262A4927E32D5C000D29AC /* sort_biggestNumber .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sort_biggestNumber .swift"; sourceTree = "<group>"; };
+		F1262A4B27E40E04000D29AC /* sort_HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sort_HIndex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 			children = (
 				F1262A4727E2F66D000D29AC /* sort_kthNumber.swift */,
 				F1262A4927E32D5C000D29AC /* sort_biggestNumber .swift */,
+				F1262A4B27E40E04000D29AC /* sort_HIndex.swift */,
 			);
 			path = programmers;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				F1262A4A27E32D5C000D29AC /* sort_biggestNumber .swift in Sources */,
 				F1262A4427E2F248000D29AC /* baeckjoon_1904.swift in Sources */,
 				F1262A2927E2F0EF000D29AC /* ViewController.swift in Sources */,
+				F1262A4C27E40E04000D29AC /* sort_HIndex.swift in Sources */,
 				F1262A4827E2F66D000D29AC /* sort_kthNumber.swift in Sources */,
 				F1262A2527E2F0EF000D29AC /* AppDelegate.swift in Sources */,
 				F1262A4527E2F248000D29AC /* baeckjoon_18258.swift in Sources */,
