@@ -32,4 +32,12 @@ class Spy {
             return clothes.filter({ $0.last == category }).count + 1 })
         return counts.reduce(1, { $0 * $1 }) - 1
     }
+    
+    func solution3(_ clothes:[[String]]) -> Int {
+        let counts = Set(clothes.compactMap({ $0.last })).map({ category in
+            return clothes.filter({ $0.last == category }).count + 1
+        })
+        
+        return counts.reduce(1, {$0 * $1}) - 1
+    }
 }
