@@ -23,6 +23,7 @@
 		F177C32E281660A200FACD44 /* innerMultiplication .swift in Sources */ = {isa = PBXBuildFile; fileRef = F177C32D281660A200FACD44 /* innerMultiplication .swift */; };
 		F177C3312816640B00FACD44 /* plusNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F177C3302816640B00FACD44 /* plusNumber.swift */; };
 		F177C33328166F1400FACD44 /* isPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = F177C33228166F1400FACD44 /* isPrime.swift */; };
+		F177C3352817A6F100FACD44 /* greedy_gymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F177C3342817A6F100FACD44 /* greedy_gymSuit.swift */; };
 		F191607327EB0C6A004AE7F0 /* hash_spy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F191607227EB0C6A004AE7F0 /* hash_spy.swift */; };
 		F1D33B8C28128F0B004371CB /* 2022_kakao_report.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D33B8B28128F0A004371CB /* 2022_kakao_report.swift */; };
 /* End PBXBuildFile section */
@@ -46,6 +47,7 @@
 		F177C32D281660A200FACD44 /* innerMultiplication .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "innerMultiplication .swift"; sourceTree = "<group>"; };
 		F177C3302816640B00FACD44 /* plusNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plusNumber.swift; sourceTree = "<group>"; };
 		F177C33228166F1400FACD44 /* isPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPrime.swift; sourceTree = "<group>"; };
+		F177C3342817A6F100FACD44 /* greedy_gymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = greedy_gymSuit.swift; sourceTree = "<group>"; };
 		F191607227EB0C6A004AE7F0 /* hash_spy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hash_spy.swift; sourceTree = "<group>"; };
 		F1D33B8B28128F0A004371CB /* 2022_kakao_report.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2022_kakao_report.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -112,8 +114,9 @@
 				F1262A4B27E40E04000D29AC /* sort_HIndex.swift */,
 				F191607227EB0C6A004AE7F0 /* hash_spy.swift */,
 				F11124DA27FAE954007E8358 /* hash_bestAlbum.swift */,
-				F1D33B8B28128F0A004371CB /* 2022_kakao_report.swift */,
 				F129F12F28129F3B00AF6B5D /* 2021 Dev-Matching_lotto.swift */,
+				F1D33B8B28128F0A004371CB /* 2022_kakao_report.swift */,
+				F177C3342817A6F100FACD44 /* greedy_gymSuit.swift */,
 			);
 			path = programmers;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F177C3352817A6F100FACD44 /* greedy_gymSuit.swift in Sources */,
 				F177C33328166F1400FACD44 /* isPrime.swift in Sources */,
 				F1262A4A27E32D5C000D29AC /* sort_biggestNumber .swift in Sources */,
 				F1D33B8C28128F0B004371CB /* 2022_kakao_report.swift in Sources */,
